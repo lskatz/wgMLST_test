@@ -35,4 +35,4 @@ Git was only 538K for me at this point when I ran `du -shc .git`
 
 The goodness of fit is very high and so the size requirements are very predictable.  Here is a step size of 100 and number of steps 100 (10,000 total alleles).
 
-[Graph](graph.100.100.png)
+[Graph](image.PNG)
